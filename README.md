@@ -53,11 +53,6 @@ trade-api/
 ├── requirements.txt
 └── README.md
 ---
-🧪 Running Tests
-![image](https://github.com/user-attachments/assets/a5a78127-ec88-409c-9973-fc3d03d3e319)
-![image](https://github.com/user-attachments/assets/470774fa-cf81-4805-9d6b-eace2ef3518d)
-![image](https://github.com/user-attachments/assets/ea6ee6ae-2188-442b-8859-01f7a5bf10eb)
-![image](https://github.com/user-attachments/assets/9f9ace5d-febe-452e-b72b-8b1ebd8d9e12)
 
 
 
